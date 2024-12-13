@@ -1,0 +1,32 @@
+.titolo{background-color: black;
+color: yellow;
+font-size: 50px;
+border: 100%;
+line-height: 200px;
+text-align: center;
+}
+div.iniziale{
+    background-color: orange;
+    border: 2px solid black;
+
+
+}
+p.inizio{
+    text-align: center;
+   font-size: xx-large;
+}
+ol li{list-style-image: url(../../assets/img/icons8-planet-32.png);}
+
+.card-container{border: 2px solid black;
+display: inline-block;
+}
+body{
+background-color: grey;}
+div{font-size: 16px;}
+h1{text-align: center;}
+
+.card-body{background-color: grey;
+width: 300px;
+border: 3px solid black;
+padding: 5px;
+margin: 25px;}
